@@ -1,0 +1,19 @@
+body{
+    background: url(https://cdn.pixabay.com/photo/2020/03/17/13/04/desert-4940300_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia;
+}
+.orange {
+    text-align: center;
+    margin: 0px;
+    color:orange;
+}
+.orange h1{
+    margin-top: 20px;
+}
+.rectangle{
+    border: black;
+    background-color: white;
+    top: 20px;
+}
